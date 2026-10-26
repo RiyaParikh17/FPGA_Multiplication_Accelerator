@@ -1,0 +1,30 @@
+# Vivado generated output
+**/.Xil/
+**/*.jou
+**/*.log
+**/*.str
+**/*.wdb
+**/*.vcd
+**/*.wcfg
+**/*.pb
+**/*.cache/
+**/*.gen/
+**/*.runs/
+**/*.sim/
+**/*.hw/
+**/*.ip_user_files/
+**/*.dcp
+**/*.bit
+**/*.ltx
+**/*.xsa
+
+# Temporary files
+**/*.tmp
+**/*.bak
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Note: .xpr, .srcs, .xci, .bd, RTL and testbenches are intentionally tracked.
